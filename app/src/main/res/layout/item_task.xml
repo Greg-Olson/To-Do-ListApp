@@ -20,7 +20,7 @@
          android:maxLines="1"
          android:layout_toStartOf="@id/check_box_completed"
          android:ellipsize="end"
-         android:textColor="black"
+
          android:layout_alignTop="@+id/check_box_completed"
          android:layout_alignBottom="@id/check_box_completed"
          android:gravity="center_vertical"
